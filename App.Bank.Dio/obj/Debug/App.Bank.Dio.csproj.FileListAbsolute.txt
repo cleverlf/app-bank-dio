@@ -1,0 +1,8 @@
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\bin\Debug\App.Bank.Dio.exe.config
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\bin\Debug\App.Bank.Dio.exe
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\bin\Debug\App.Bank.Dio.pdb
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\obj\Debug\App.Bank.Dio.csproj.AssemblyReference.cache
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\obj\Debug\App.Bank.Dio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\obj\Debug\App.Bank.Dio.csproj.CoreCompileInputs.cache
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\obj\Debug\App.Bank.Dio.exe
+C:\Users\Desk\source\repos\AppBank\App.Bank.Dio\obj\Debug\App.Bank.Dio.pdb
